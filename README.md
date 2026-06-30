@@ -19,6 +19,8 @@
 ## Description
 This project applies deep learning techniques to detect brain tumors from MRI images. Using two advanced models, EfficientNetB0 and EfficientNetB3, this project achieved impressive accuracy in classifying tumors into four categories: glioma tumor, no tumor, meningioma tumor, and pituitary tumor .
 
+Paper link: https://ieeexplore.ieee.org/abstract/document/11276886
+
 ## Inspiration
 This experiment is part of a research endeavor to explore deep learning applications in medical imaging. The insights gathered from this project will be used in writing a research paper on the topic.
 
